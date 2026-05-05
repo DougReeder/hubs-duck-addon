@@ -1,3 +1,5 @@
+** PROBE **
+
 # Hubs Duck Add-On
 A [Hubs](https://github.com/Hubs-Foundation/hubs/) add-on that adds support for spawning a duck in a Hubs room.
 
